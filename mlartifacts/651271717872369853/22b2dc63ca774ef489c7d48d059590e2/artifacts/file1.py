@@ -22,9 +22,8 @@ X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.10, random
 max_depth = 10
 n_estimators = 9
 
-
 # Mention your experiment below
-mlflow.set_experiment('exp1')
+mlflow.set_experiment('YT-MLOPS-Exp1')
 
 with mlflow.start_run():
     rf = RandomForestClassifier(max_depth=max_depth, n_estimators=n_estimators, random_state=42)

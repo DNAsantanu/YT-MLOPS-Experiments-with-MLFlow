@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/651271717872369853/22b2dc63ca774ef489c7d48d059590e2/artifacts
+end_time: 1748799325498
+entry_point_name: ''
+experiment_id: '651271717872369853'
+lifecycle_stage: active
+run_id: 22b2dc63ca774ef489c7d48d059590e2
+run_name: illustrious-doe-705
+run_uuid: 22b2dc63ca774ef489c7d48d059590e2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748799319987
+status: 3
+tags: []
+user_id: santanudas

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/397620144955633240/609e988e23664d2b8b717c1eea37ae36/artifacts
+end_time: 1748839054344
+entry_point_name: ''
+experiment_id: '397620144955633240'
+lifecycle_stage: active
+run_id: 609e988e23664d2b8b717c1eea37ae36
+run_name: ambitious-conch-697
+run_uuid: 609e988e23664d2b8b717c1eea37ae36
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748839049471
+status: 3
+tags: []
+user_id: santanudas
