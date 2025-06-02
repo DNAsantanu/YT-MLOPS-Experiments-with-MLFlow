@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/397620144955633240/2fcf3c575582433ca708b0e352823b9c/artifacts
+end_time: 1748839493430
+entry_point_name: ''
+experiment_id: '397620144955633240'
+lifecycle_stage: active
+run_id: 2fcf3c575582433ca708b0e352823b9c
+run_name: whimsical-goat-60
+run_uuid: 2fcf3c575582433ca708b0e352823b9c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748839489506
+status: 3
+tags: []
+user_id: santanudas

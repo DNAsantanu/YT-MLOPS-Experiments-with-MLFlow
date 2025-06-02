@@ -7,7 +7,10 @@ from sklearn.metrics import accuracy_score, confusion_matrix
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-mlflow.set_tracking_uri("http://127.0.0.1:5000")
+import dagshub
+dagshub.init(repo_owner='dassantanu01112000', repo_name='YT-MLOPS-Experiments-with-MLFlow', mlflow=True)
+
+mlflow.set_tracking_uri("https://dagshub.com/dassantanu01112000/YT-MLOPS-Experiments-with-MLFlow.mlflow/")
 
 # Load Wine dataset
 wine = load_wine()
@@ -18,12 +21,12 @@ y = wine.target
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.10, random_state=42)
 
 # Define the params for RF model
-max_depth = 10
-n_estimators = 5
+max_depth = 100
+n_estimators = 15
 
 # Mention your experiment below
 mlflow.autolog()
-mlflow.set_experiment('YT-MLOPS-Exp1')
+mlflow.set_experiment('SantanuExp2')
 
 with mlflow.start_run():
     rf = RandomForestClassifier(max_depth=max_depth, n_estimators=n_estimators, random_state=42)
@@ -47,6 +50,6 @@ with mlflow.start_run():
     mlflow.log_artifact(__file__)
 
     # tags
-    mlflow.set_tags({"Author": 'Vikash', "Project": "Wine Classification"})
+    mlflow.set_tags({"Author": 'Santanu', "Project": "Wine Classification"})
 
     print(accuracy)
