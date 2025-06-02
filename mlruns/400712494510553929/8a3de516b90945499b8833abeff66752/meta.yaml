@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/santanudas/MLops/YT-MLOPS-Experiments-with-MLFlow/mlruns/400712494510553929/8a3de516b90945499b8833abeff66752/artifacts
+end_time: 1748842189440
+entry_point_name: ''
+experiment_id: '400712494510553929'
+lifecycle_stage: active
+run_id: 8a3de516b90945499b8833abeff66752
+run_name: sneaky-frog-253
+run_uuid: 8a3de516b90945499b8833abeff66752
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748842189434
+status: 3
+tags: []
+user_id: santanudas

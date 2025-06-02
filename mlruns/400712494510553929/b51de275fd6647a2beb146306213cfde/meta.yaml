@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/santanudas/MLops/YT-MLOPS-Experiments-with-MLFlow/mlruns/400712494510553929/b51de275fd6647a2beb146306213cfde/artifacts
+end_time: 1748842189454
+entry_point_name: ''
+experiment_id: '400712494510553929'
+lifecycle_stage: active
+run_id: b51de275fd6647a2beb146306213cfde
+run_name: vaunted-dove-535
+run_uuid: b51de275fd6647a2beb146306213cfde
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748842189449
+status: 3
+tags: []
+user_id: santanudas

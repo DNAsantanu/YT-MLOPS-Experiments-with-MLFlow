@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/santanudas/MLops/YT-MLOPS-Experiments-with-MLFlow/mlruns/400712494510553929/98cd0e45cb6b4f52b327a256df7aeb29/artifacts
+end_time: 1748842189487
+entry_point_name: ''
+experiment_id: '400712494510553929'
+lifecycle_stage: active
+run_id: 98cd0e45cb6b4f52b327a256df7aeb29
+run_name: thundering-deer-471
+run_uuid: 98cd0e45cb6b4f52b327a256df7aeb29
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748842189481
+status: 3
+tags: []
+user_id: santanudas

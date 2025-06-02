@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/santanudas/MLops/YT-MLOPS-Experiments-with-MLFlow/mlruns/400712494510553929/377c6237c7e449f89edcee0aea9cefbf/artifacts
+end_time: 1748842189468
+entry_point_name: ''
+experiment_id: '400712494510553929'
+lifecycle_stage: active
+run_id: 377c6237c7e449f89edcee0aea9cefbf
+run_name: capricious-shrimp-97
+run_uuid: 377c6237c7e449f89edcee0aea9cefbf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748842189463
+status: 3
+tags: []
+user_id: santanudas

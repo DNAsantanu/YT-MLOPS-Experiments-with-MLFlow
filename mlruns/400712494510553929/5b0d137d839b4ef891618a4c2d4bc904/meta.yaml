@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/santanudas/MLops/YT-MLOPS-Experiments-with-MLFlow/mlruns/400712494510553929/5b0d137d839b4ef891618a4c2d4bc904/artifacts
+end_time: 1748842189448
+entry_point_name: ''
+experiment_id: '400712494510553929'
+lifecycle_stage: active
+run_id: 5b0d137d839b4ef891618a4c2d4bc904
+run_name: popular-yak-752
+run_uuid: 5b0d137d839b4ef891618a4c2d4bc904
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748842189442
+status: 3
+tags: []
+user_id: santanudas

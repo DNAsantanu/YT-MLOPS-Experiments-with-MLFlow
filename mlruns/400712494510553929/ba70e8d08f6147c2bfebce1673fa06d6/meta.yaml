@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/santanudas/MLops/YT-MLOPS-Experiments-with-MLFlow/mlruns/400712494510553929/ba70e8d08f6147c2bfebce1673fa06d6/artifacts
+end_time: 1748842194807
+entry_point_name: ''
+experiment_id: '400712494510553929'
+lifecycle_stage: active
+run_id: ba70e8d08f6147c2bfebce1673fa06d6
+run_name: beautiful-carp-197
+run_uuid: ba70e8d08f6147c2bfebce1673fa06d6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748842184803
+status: 3
+tags: []
+user_id: santanudas

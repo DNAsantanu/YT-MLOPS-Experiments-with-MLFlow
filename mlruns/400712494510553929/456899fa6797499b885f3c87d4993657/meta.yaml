@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/santanudas/MLops/YT-MLOPS-Experiments-with-MLFlow/mlruns/400712494510553929/456899fa6797499b885f3c87d4993657/artifacts
+end_time: 1748842189480
+entry_point_name: ''
+experiment_id: '400712494510553929'
+lifecycle_stage: active
+run_id: 456899fa6797499b885f3c87d4993657
+run_name: colorful-stoat-877
+run_uuid: 456899fa6797499b885f3c87d4993657
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748842189469
+status: 3
+tags: []
+user_id: santanudas

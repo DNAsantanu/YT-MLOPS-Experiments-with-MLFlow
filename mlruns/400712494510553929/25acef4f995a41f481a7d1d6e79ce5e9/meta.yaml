@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/santanudas/MLops/YT-MLOPS-Experiments-with-MLFlow/mlruns/400712494510553929/25acef4f995a41f481a7d1d6e79ce5e9/artifacts
+end_time: 1748842189510
+entry_point_name: ''
+experiment_id: '400712494510553929'
+lifecycle_stage: active
+run_id: 25acef4f995a41f481a7d1d6e79ce5e9
+run_name: luxuriant-eel-238
+run_uuid: 25acef4f995a41f481a7d1d6e79ce5e9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748842189504
+status: 3
+tags: []
+user_id: santanudas

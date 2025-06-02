@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/santanudas/MLops/YT-MLOPS-Experiments-with-MLFlow/mlruns/400712494510553929/2603fdfebf9a44a4a0caa5a770ca440a/artifacts
+end_time: 1748842189433
+entry_point_name: ''
+experiment_id: '400712494510553929'
+lifecycle_stage: active
+run_id: 2603fdfebf9a44a4a0caa5a770ca440a
+run_name: resilient-finch-671
+run_uuid: 2603fdfebf9a44a4a0caa5a770ca440a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748842189426
+status: 3
+tags: []
+user_id: santanudas

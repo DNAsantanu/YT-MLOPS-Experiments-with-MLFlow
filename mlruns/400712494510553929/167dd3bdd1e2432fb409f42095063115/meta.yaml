@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/santanudas/MLops/YT-MLOPS-Experiments-with-MLFlow/mlruns/400712494510553929/167dd3bdd1e2432fb409f42095063115/artifacts
+end_time: 1748842189421
+entry_point_name: ''
+experiment_id: '400712494510553929'
+lifecycle_stage: active
+run_id: 167dd3bdd1e2432fb409f42095063115
+run_name: delightful-hawk-837
+run_uuid: 167dd3bdd1e2432fb409f42095063115
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748842189405
+status: 3
+tags: []
+user_id: santanudas

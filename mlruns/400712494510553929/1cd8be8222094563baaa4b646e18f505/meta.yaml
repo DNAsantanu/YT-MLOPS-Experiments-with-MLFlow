@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/santanudas/MLops/YT-MLOPS-Experiments-with-MLFlow/mlruns/400712494510553929/1cd8be8222094563baaa4b646e18f505/artifacts
+end_time: 1748842189503
+entry_point_name: ''
+experiment_id: '400712494510553929'
+lifecycle_stage: active
+run_id: 1cd8be8222094563baaa4b646e18f505
+run_name: enchanting-pig-289
+run_uuid: 1cd8be8222094563baaa4b646e18f505
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748842189497
+status: 3
+tags: []
+user_id: santanudas
